@@ -1,0 +1,15 @@
+{
+  "name": "fwp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MrDenySU",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node .",
+    "editorconfig": "editorconfig-checker --exclude node_modules"
+  },
+  "devDependencies": {
+    "editorconfig-checker": "^4.0.2"
+  }
+}
